@@ -1,0 +1,3 @@
+# setup the enviornment 
+
+export GOPATH=$HOME/src/go

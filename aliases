@@ -1,0 +1,6 @@
+alias l="ls -la"
+alias ld="ls -ld"
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias python2="python"
